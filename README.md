@@ -12,7 +12,13 @@ Sólida formación técnica y pasión por la innovación tecnológica. Habilidad
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MauricioCastro16&theme=gruvbox&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioCastro16&show_icons=true&theme=gruvbox&border_radius=20) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MauricioCastro16/MauricioCastro16/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MauricioCastro16/MauricioCastro16/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MauricioCastro16/MauricioCastro16/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ## ⚙️ Tecnologías
 
